@@ -3,7 +3,7 @@
 ### 😄 About me
 
 🎓 I'm on my way to get my dregree in Sistemas de Informação(Information Systems), started in Jan/2021.</br>
-📖 I already worked with PHP, HTML, CSS, Wordpress but right now my focues is DevOps.</br>
+📖 I already worked with PHP, Wordpress but right now my focus is DevOps.</br>
 🌵 Always learning more and more this technology's: GO, Docker, DevOps concepts, AWS, Security.</br>
 
 ### 🚀 Technology that I'm always learning:</br>
