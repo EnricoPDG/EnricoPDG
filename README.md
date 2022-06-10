@@ -4,7 +4,7 @@
 
 🎓 I'm on my way to get my degree in Sistemas de Informação(Information Systems), started in Jan/2021.</br>
 📖 I already worked with PHP and Wordpress but right now my focus is DevOps.</br>
-🌵 I'm always learning more and more technology's like Go, Docker, DevOps concepts, AWS, Security.</br>
+🌵 I'm always learning more and more technologies like Go, Docker, DevOps concepts, AWS, Security.</br>
 
 ### 🚀 Technology that I'm always learning:</br>
 
