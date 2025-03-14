@@ -1,11 +1,11 @@
 ## Hello, I am Enrico Papsch Di Giacomo
 
-### 😄 About Me
+### About Me
 
-🎓 Graduated in Information Systems.  
-💼 Currently working as a Security Engineer at Itaú Unibanco.  
-💓 Passionate about Programming, DevOps, DevSecOps, and Security.  
-🌵 Continuously learning and exploring technologies like Go, Python, Docker, DevOps concepts, Cloud, and Security.
+- Graduated in Information Systems.  
+- Currently working as a Security Engineer at Itaú Unibanco.  
+- Passionate about Programming, DevOps, DevSecOps, and Security.  
+- Continuously learning and exploring technologies.
 
 
 ### 🚀 Technologies:
