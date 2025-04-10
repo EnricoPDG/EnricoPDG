@@ -3,8 +3,7 @@
 ### About Me
 
 - Graduated in Information Systems.  
-- Currently working as a Security Engineer at Itaú Unibanco.  
-- Passionate about Programming, DevOps, DevSecOps, and Security.  
+- Currently working as a Software Engineer at Itaú Unibanco.  
 - Continuously learning and exploring technologies.
 
 
